@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zizi-v
+- 👋 Hi, I’m Zahra
 - 👀 I’m interested in Data visualization 
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to more challenges to develope my general programming skills.
